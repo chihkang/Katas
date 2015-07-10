@@ -1,0 +1,3 @@
+﻿------ Run test started ------
+Unable to locate the solution directory. Please ensure that the solution has been saved.
+========== Run test finished: 9 run (0:00:07.0533957) ==========
