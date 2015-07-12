@@ -54,14 +54,17 @@
     <Compile Include="BowlingGameKata\Game.cs" />
     <Compile Include="BowlingGameKata\BowlingGameTest.cs" />
     <Compile Include="FizzBuzzKata\IFizzBuzz.cs" />
-    <Compile Include="oddEven.cs" />
+    <Compile Include="OddEvenPrimeKata\oddEven.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="FizzBuzzKata\FizzBuzzTest.cs" />
-    <Compile Include="oddEvenTest.cs" />
+    <Compile Include="OddEvenPrimeKata\oddEvenTest.cs" />
+    <Compile Include="StringCalculator\StringCalculator.cs" />
+    <Compile Include="StringCalculator\StringCalculatorTest.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="FizzBuzzKata\FizzKataResult.txt" />
-    <Content Include="oddEvenKata.txt" />
+    <Content Include="OddEvenPrimeKata\oddEvenKata.txt" />
+    <Content Include="StringCalculator\StringCalculator.txt" />
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
